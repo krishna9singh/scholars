@@ -51,7 +51,7 @@ function Booklet() {
     <AC>Ans- Anchor tag</AC>
     <QC>Q11- Which tag defines abbreviations or acronym?</QC>
     <AC>Ans-abbr tag</AC>
-    <QC>Q12- Whijch tag dfines contact information for the author/owner of a document?</QC>
+    <QC>Q12- Which tag defines contact information for the author/owner of a document?</QC>
     <AC>Ans- address tag</AC>
     <QC>Q13- Which tag defines an area inside an image map?</QC>
     <AC>Ans- area tag</AC>
