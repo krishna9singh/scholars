@@ -57,12 +57,12 @@ export const homeObjFour = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Our Partners',
-  headline: 'Coming soon...',
+  headline: 'Pinnacle Classes',
   description:
-    'coming soon.',
-  buttonLabel: 'coming soon',
+    'An Elite Way of Teaching',
+  buttonLabel: 'Click Here',
   imgStart: 'start',
-  img: require('../../images/svg-3.svg'),
+  img: require('../../images/pc.svg'),
   alt: 'Vault',
   start: 'true'
 };
